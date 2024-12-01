@@ -1,0 +1,3 @@
+/Users/shammi/Desktop/Reading_in_tracking_data/build/CMakeFiles/TrackingDataReader.dir
+/Users/shammi/Desktop/Reading_in_tracking_data/build/CMakeFiles/edit_cache.dir
+/Users/shammi/Desktop/Reading_in_tracking_data/build/CMakeFiles/rebuild_cache.dir
