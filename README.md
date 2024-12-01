@@ -13,3 +13,28 @@ Euclidean Distance Calculation: The program calculates the Euclidean distance be
 
 Extensibility: This project can be extended to support additional analyses, such as velocity or acceleration calculations, or to handle more complex CSV formats.
 Use Case: This tool is ideal for applications involving motion tracking, such as robotics, virtual reality (VR), augmented reality (AR), and other fields where precise positional data is crucial. It provides a foundation for analyzing and comparing movement data across different timeframes or experimental conditions.
+
+
+
+# TrackingDataReader
+
+This project reads and processes tracking data from CSV files. The program calculates the mean and jitter for each set of tracking data and computes the Euclidean distance between two sets of data.
+
+## How to Use
+
+1. Clone the repository:
+git clone https://github.com/your-username/TrackingDataReader.git
+
+
+2. Build the project:
+cmake .. cmake --build .
+
+
+3. Run the program:
+./build/TrackingDataReader
+
+
+## Files
+
+- `NavigationDataTestData-Pos1.csv` and `NavigationDataTestData-Pos2.csv`: CSV files containing tracking data.
+
