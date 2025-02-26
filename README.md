@@ -22,9 +22,11 @@ This project reads and processes tracking data from CSV files. The program calcu
 
 ## How to Use
 
+
 1. Clone the repository:
 git clone https://github.com/your-username/TrackingDataReader.git
 
+# Switch to master branch 
 
 2. Build the project:
 cmake .. cmake --build .
